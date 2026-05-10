@@ -1,0 +1,14 @@
+=============================================================
+PROJECT SUBMISSION DETAILS
+=============================================================
+
+Project Name : MediCore Hospital Management System
+Developed By : Muhammad Abdullah
+Email        : abdullah.03002018480@gmail.com
+Phone        : +92-300-2018480
+
+=============================================================
+Description  : A complete C++ Object Oriented Programming 
+               project implementing a hospital management 
+               system with Patient, Doctor, and Admin roles.
+=============================================================
